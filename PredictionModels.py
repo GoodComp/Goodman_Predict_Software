@@ -569,3 +569,5 @@ def hello():
 	print("Hello")
 	def hello():
 	print("Hello")
+	def hello():
+	print("oodman")
