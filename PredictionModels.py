@@ -560,4 +560,5 @@ class PredictionModels:
                     plt.show()
 
 # model=Models()
-# model.arima()
+# model.arima()def hmm(self):
+	print("Goodman")
