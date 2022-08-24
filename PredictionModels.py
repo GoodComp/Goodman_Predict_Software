@@ -575,3 +575,5 @@ def hello():
 	print("oodman")
 	def hello():
 	print("oodman")
+	def hello():
+	print("oodman")
