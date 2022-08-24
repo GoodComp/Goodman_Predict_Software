@@ -567,3 +567,7 @@ class PredictionModels:
 		print("oodman")
 
 hello()
+	def hello():
+		print("oodman")
+
+hello()
