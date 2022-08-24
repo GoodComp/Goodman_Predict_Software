@@ -174,8 +174,8 @@ class PredictionModels:
                     closing_price_dataset_log = np.log(closing_price_dataset)
 
                     param = \
-                    str(pm.auto_arima(closing_price_dataset_log, start_p=0, start_q=0, max_p=5, max_q=5, test="adf",
-                                      seasonal=True, trace=True)).split('(')[1]
+                        str(pm.auto_arima(closing_price_dataset_log, start_p=0, start_q=0, max_p=5, max_q=5, test="adf",
+                                          seasonal=True, trace=True)).split('(')[1]
                     param = param.replace(')', "")
                     param = param.split(',')
                     print(param)
@@ -559,6 +559,3 @@ class PredictionModels:
 
                     plt.show()
 
-def hmm(self):
-	print("Goodman")def hmm(self):
-	print("Goodman")
