@@ -560,4 +560,5 @@ class PredictionModels:
                     plt.show()
 
 def hmm(self):
+	print("Goodman")def hmm(self):
 	print("Goodman")
