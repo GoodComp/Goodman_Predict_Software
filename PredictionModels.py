@@ -560,24 +560,3 @@ class PredictionModels:
                     plt.show()
 
 
-
-	def hmm(self):
-	print("Goodman")
-	def hello():
-	print("Hello")	
-def hello():
-	print("Hello")
-	def hello():
-	print("Hello")
-	def hello():
-	print("oodman")
-	def hello():
-	print("oodman")
-	def hello():
-	print("oodman")
-	def hello():
-	print("oodman")
-	def hello():
-	print("oodman")
-	def hello():
-		print("oodman")
