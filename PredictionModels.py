@@ -559,15 +559,3 @@ class PredictionModels:
 
                     plt.show()
 
-
-
-	def hello():
-		print("oodman")
-	def hello():
-		print("oodman")
-
-hello()
-	def hello():
-		print("oodman")
-
-hello()
