@@ -559,3 +559,8 @@ class PredictionModels:
 
                     plt.show()
 
+
+	def hello():
+		print("hello")
+
+hello()
